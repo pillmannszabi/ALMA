@@ -2,6 +2,14 @@ h1{
     color: red;
 }
 
-#kep{
+.kep{
     margin: auto;
+    border: 3px;
+    border-style: dashed;
+    border-color: black;
+    text-align: center;
+}
+
+.szoveg{
+    text-align: justify;
 }
